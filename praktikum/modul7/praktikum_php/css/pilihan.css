@@ -1,0 +1,9 @@
+body{
+	background:#96C7C1;
+	font-family: poppins;
+}
+.daftar:hover{
+font-family: poppins;
+font-size: 17px;
+background-color: #406882;
+}

@@ -1,0 +1,13 @@
+body{
+	background:#96C7C1;
+	font-family: poppins;
+}
+
+.kirim{
+	padding-top: 250px;
+}
+.daftar:hover{
+font-family: poppins;
+font-size: 17px;
+background-color: #406882;
+}

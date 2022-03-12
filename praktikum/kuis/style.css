@@ -1,0 +1,130 @@
+body{
+	background: #F2F2F2;
+	font-family: sans-serif;
+}
+
+fieldset{
+	color: black;
+	background-color: white;
+	border: 2px solid black;
+	width: 50%;
+	margin: 50px auto 0;
+	margin-bottom: 50px;
+	border-radius: 10px;	
+}
+h4{
+	text-align: center;
+}
+.daftar{
+	width: 600px;
+	background: #72787c;
+	margin: 100px auto;
+	padding: 10px 20px 50px 20px;
+	border-radius: 5px;
+	box-shadow: 0px 10px 20px 0px #D1D1D1;
+}
+
+.bil{
+	width: 400px;
+	margin: 5px;
+	border: none;
+	font-size: 16pt;
+	border-radius: 5px;
+	padding: 10px;	
+}
+.alamat{
+    width: 20px;
+	margin: 5px;
+	border: none;
+	font-size: 16pt;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.jk{
+    font-size: 16px;
+    
+}
+.opt{
+	font-size: 16pt;
+	border: none;
+	width: 215px;
+	margin: 5px;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.tombol{
+	background: #5153ec;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	color: #eee;
+	font-size: 15pt;
+	border-bottom:4px solid #3d46bf;
+  text-decoration: none;
+}
+
+.qwe table {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666;
+    text-shadow: 1px 1px 0px #fff;
+    background: #eaebec;
+    border: #ccc 1px solid;
+  }
+   
+.qwe table th {
+    padding: 15px 35px;
+    border-left:1px solid #e0e0e0;
+    border-bottom: 1px solid #e0e0e0;
+    background: #ededed;
+  }
+   
+.qwe table th:first-child{  
+    border-left:none;  
+  }
+   
+.qwe table tr {
+    text-align: center;
+    padding-left: 20px;
+  }
+   
+  .qwe table td:first-child {
+    text-align: left;
+    padding-left: 20px;
+    border-left: 0;
+  }
+   
+  .qwe table td {
+    padding: 15px 35px;
+    border-top: 1px solid #ffffff;
+    border-bottom: 1px solid #e0e0e0;
+    border-left: 1px solid #e0e0e0;
+    background: #fafafa;
+    background: -webkit-gradient(linear, left top, left bottom, from(#fbfbfb), to(#fafafa));
+    background: -moz-linear-gradient(top, #fbfbfb, #fafafa);
+  }
+   
+  .qwe table tr:last-child td {
+    border-bottom: 0;
+  }
+   
+  .qwe table tr:last-child td:first-child {
+    -moz-border-radius-bottomleft: 3px;
+    -webkit-border-bottom-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+  }
+   
+  .qwe table tr:last-child td:last-child {
+    -moz-border-radius-bottomright: 3px;
+    -webkit-border-bottom-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+  }
+   
+  .qwe table tr:hover td {
+    background: #f2f2f2;
+    background: -webkit-gradient(linear, left top, left bottom, from(#f2f2f2), to(#f0f0f0));
+    background: -moz-linear-gradient(top, #f2f2f2, #f0f0f0);
+  }
